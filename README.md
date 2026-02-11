@@ -23,3 +23,6 @@ Linux/Mac: sudo apt install ffmpeg ou brew install ffmpeg.
 
 2. Chave de API da OpenAI
 Você precisará de uma API Key válida.
+
+## Nota sobre o Versionamento
+Utilizei um arquivo .gitignore básico para garantir que arquivos de áudio temporários gerados durante os testes locais (como .wav e .mp3) não fossem enviados ao repositório, mantendo o projeto limpo e focado apenas no código-fonte.
