@@ -1,0 +1,17 @@
+# Arquivos de áudio gerados pelo assistente
+*.wav
+*.mp3
+
+# Pastas de ambiente virtual e cache do Python
+__pycache__/
+.venv/
+env/
+venv/
+
+# Arquivos de configuração de editores
+.vscode/
+.idea/
+
+# Arquivos de log e sistema
+*.log
+.DS_Store
